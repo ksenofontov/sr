@@ -1,0 +1,37 @@
+﻿<html>
+<head>
+ <link rel="stylesheet"  type="text/css" href="sr1.css" />
+ </head>
+<body>
+<h1><b>1. Уравнения</b></h1>
+    <ol>
+     <li><i>x<sup>2</sup> + 2x + 1 = 0</i></li>
+     <li><i>(x + 1)<sup>x</sup> = (x - 1)<sup>2x</sup></i></li>
+     <li> <i>sin<sup>2</sup>x = cos(π - x)</li></i>
+     </ol>
+
+<h1><b>2. Таблицы</b></h1>
+<h2><b>2.1. Структура</b></h2>
+<table border="1" width="20%" heigth="100%"> 
+<tr align="center" ></tr><td></td><td colspan="2" align=center>Колонки</td></tr> 
+<tr> 
+<td align=center rowspan="2">Строки</td> 
+<td align=center>Ячейка А</td> 
+<td align=center>Ячейка B</td> 
+</tr> 
+<tr> 
+<td align=center>Ячейка C</td> 
+<td align=center>Ячейка D</td> 
+</tr> 
+</table> 
+<h2><b>2.2 Цвета</b></h2> 
+<table border=5 width="10%"> 
+<tr align=center><td bgcolor="ff0000">Красный</td></tr> 
+<tr align=center><td bgcolor="ffff00">Желтый</td></tr> 
+<tr align=center><td bgcolor="008000">Зеленый</td></tr> 
+<tr align=center><td bgcolor="0000ff">Синий</td></tr> 
+</table> 
+</body> 
+</html>
+ </body>
+</html>
